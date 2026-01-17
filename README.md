@@ -19,7 +19,7 @@ Material Symbols Icons
 
 ⚙️ How to Use This Project
 1️⃣ Clone or Download the Repository
-git clone https://github.com/your-username/spotify-ui-clone.git
+git clone https://github.com/kaimharsh/spotify-ui-clone.git
 OR download the ZIP file and extract it.
 
 2️⃣ Open the Project
